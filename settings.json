@@ -8,7 +8,7 @@
   "server": {
     "ip": "XOXLAND.aternos.me",
     "port": 62986,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "ИЛЮХА ПИТАРАС",
-        "ГОЙДА ZZZ VVV",
-        "Волыныч и Балалаич"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
